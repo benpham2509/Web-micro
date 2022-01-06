@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'My document website',
-  url: 'https://benpham2509.github.io',
-  baseUrl: '/Web-micro',
+  url: 'benpham2509.netlify.app',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
