@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://docusaurus-2.netlify.app',
-  baseUrl: '/',
+  tagline: 'My document website',
+  url: 'https://benpham2509.github.io',
+  baseUrl: '/Web-micro',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'benpham2509', // Usually your GitHub org/user name.
+  projectName: 'Web-micro', // Usually your repo name.
 
   presets: [
     [
